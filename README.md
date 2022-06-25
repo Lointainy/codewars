@@ -8,11 +8,11 @@ _Будь ласка, не надсилайте запити на доступ �
 
 <!-- 8 - 7 -->
 
-[![8kyu](https://img.shields.io/badge/8_kyu-00-333?style=for-the-badge&labelColor=e6e6e6&logoColor=FFF)](/8kyu) &nbsp; [![7kyu](https://img.shields.io/badge/7_kyu-00-333?style=for-the-badge&labelColor=e6e6e6&logoColor=FFF)](/7kyu)
+[![8kyu](https://img.shields.io/badge/8_kyu-46-333?style=for-the-badge&labelColor=e6e6e6&logoColor=FFF)](/8kyu) &nbsp; [![7kyu](https://img.shields.io/badge/7_kyu-50-333?style=for-the-badge&labelColor=e6e6e6&logoColor=FFF)](/7kyu)
 
 <!-- 6 - 5 -->
 
-[![6kyu](https://img.shields.io/badge/6_kyu-00-333?style=for-the-badge&labelColor=ecb613)](/6kyu) &nbsp; [![5kyu](https://img.shields.io/badge/5_kyu-00-333?style=for-the-badge&labelColor=ecb613)](/5kyu)
+[![6kyu](https://img.shields.io/badge/6_kyu-02-333?style=for-the-badge&labelColor=ecb613)](/6kyu) &nbsp; [![5kyu](https://img.shields.io/badge/5_kyu-00-333?style=for-the-badge&labelColor=ecb613)](/5kyu)
 
 <!-- 4 - 3 -->
 
@@ -28,9 +28,9 @@ _Будь ласка, не надсилайте запити на доступ �
 
 ###### Статус проекту:
 
-![complete](https://img.shields.io/badge/вирішено_завдань:-00-333?style=for-the-badge&labelColor=e7901f)
+![complete](https://img.shields.io/badge/вирішено_завдань:-98-333?style=for-the-badge&labelColor=e7901f)
 
-![](https://img.shields.io/badge/останнe_оновлення:-24.06.22-333?style=for-the-badge&labelColor=1fe783)
+![](https://img.shields.io/badge/останнe_оновлення:-25.06.22-333?style=for-the-badge&labelColor=1fe783)
 
 Над проектом працювали:
 
