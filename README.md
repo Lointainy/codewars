@@ -1,92 +1,41 @@
-<div style="display: flex; justify-content: space-between;  align-items: center;" >
-<span style="font-weight: bold;  font-size: 24px;">
-<a href="">CodeWars</a>
- - завдання
-</span>
-<span><img src="https://img.shields.io/badge/вирішено-00-333?style=for-the-badge&labelColor=e7901f" alt="">
-</span>
-</div>
-<br></br>
+# [`CodeWars`](https://www.codewars.com/r/xwF4cw) - завдання
 
-<div style="display: flex; justify-content: center; font-style: italic;">
-Будь ласка, не надсилайте запити на доступ до
-<span style="font-style: normal; padding: 1px 8px; margin: 0px 6px; background-color: #e7e7e7e0; border-radius: 6px;">master</span>
- гілки, вона зарезервована для випусків.
-</div>
-<br></br>
+_Будь ласка, не надсилайте запити на доступ до `master` гілки, вона зарезервована для випусків._
 
-<div style="display: flex; justify-content: space-between;  align-items: center;" >
-<span style="font-weight: 600;  font-size: 16px;">
-Статус проекту:
-</span>
-<span><img src="https://img.shields.io/badge/останнє_оновлення-24.06.22-333?style=for-the-badge&labelColor=1fe783" alt="">
-</span>
-</div>
+<!-- Navigation -->
 
-<div style="display: flex; justify-content: space-between;  align-items: center;" >
-<span style="font-weight: 600;  font-size: 16px;">
+###### Навігація:
+
+<!-- 8 - 7 -->
+
+[![8kyu](https://img.shields.io/badge/8_kyu-00-333?style=for-the-badge&labelColor=e6e6e6&logoColor=FFF)](/8kyu) &nbsp; [![7kyu](https://img.shields.io/badge/7_kyu-00-333?style=for-the-badge&labelColor=e6e6e6&logoColor=FFF)](/7kyu)
+
+<!-- 6 - 5 -->
+
+[![6kyu](https://img.shields.io/badge/6_kyu-00-333?style=for-the-badge&labelColor=ecb613)](/6kyu) &nbsp; [![5kyu](https://img.shields.io/badge/5_kyu-00-333?style=for-the-badge&labelColor=ecb613)](/5kyu)
+
+<!-- 4 - 3 -->
+
+[![4kyu](https://img.shields.io/badge/4_kyu-00-333?style=for-the-badge&labelColor=1f87e7)](/4kyu) &nbsp; [![3kyu](https://img.shields.io/badge/3_kyu-00-333?style=for-the-badge&labelColor=1f87e7)](/3kyu)
+
+<!-- 2 - 1 -->
+
+[![2kyu](https://img.shields.io/badge/2_kyu-00-333?style=for-the-badge&labelColor=866cc7)](/2kyu) &nbsp; [![1kyu](https://img.shields.io/badge/1_kyu-00-333?style=for-the-badge&labelColor=866cc7)](/1kyu)
+
+<br/><br/>
+
+<!-- Status -->
+
+###### Статус проекту:
+
+![complete](https://img.shields.io/badge/вирішено_завдань:-00-333?style=for-the-badge&labelColor=e7901f)
+
+![](https://img.shields.io/badge/останнe_оновлення:-24.06.22-333?style=for-the-badge&labelColor=1fe783)
+
 Над проектом працювали:
-</span>
-<span>
-<a href="https://github.com/Lointainy">
-<img src="https://img.shields.io/badge/-lointainy-333?style=for-the-badge&logo=github&&logoColor=FFF" alt="">
-</a>
-</span>
-</div>
-<br></br>
-<div style="display: flex; flex-wrap: wrap;" >
-<span style="
-width: 100%; font-weight: bold;  font-size: 24px;">
-Навігація
-</span>
 
-<span style="margin-right: 15px;">
-<a href="/8kyu/">
-<img src="https://img.shields.io/badge/8_kyu-00-333?style=for-the-badge&labelColor=e6e6e6&logoColor=FFF" alt="">
-</a>
-</span>
+[![Lointainy](https://img.shields.io/badge/-lointainy-333?style=for-the-badge&logo=github&&logoColor=FFF)](https://github.com/Lointainy)
 
-<span style="margin-right: 15px;">
-<a href="/7kyu/">
-<img src="https://img.shields.io/badge/7_kyu-00-333?style=for-the-badge&labelColor=e6e6e6&logoColor=FFF" alt="">
-</a>
-</span>
-
-<span style="margin-right: 15px;">
-<a href="/6kyu/">
-<img src="https://img.shields.io/badge/6_kyu-00-333?style=for-the-badge&labelColor=ecb613" alt="">
-</a>
-</span>
-
-<span style="margin-right: 15px;">
-<a href="/5kyu/">
-<img src="https://img.shields.io/badge/5_kyu-00-333?style=for-the-badge&labelColor=ecb613" alt="">
-</a>
-</span>
-
-<span style="margin-right: 15px;">
-<a href="/4kyu/">
-<img src="https://img.shields.io/badge/4_kyu-00-333?style=for-the-badge&labelColor=1f87e7" alt="">
-</a>
-</span>
-
-<span style="margin-right: 15px;">
-<a href="/3kyu/">
-<img src="https://img.shields.io/badge/3_kyu-00-333?style=for-the-badge&labelColor=1f87e7" alt="">
-</a>
-</span>
-
-<span style="margin-right: 15px;">
-<a href="/2kyu/">
-<img src="https://img.shields.io/badge/2_kyu-00-333?style=for-the-badge&labelColor=866cc7" alt="">
-</a>
-</span>
-
-<span style="margin-right: 15px;">
-<a href="/1kyu/">
-<img src="https://img.shields.io/badge/1_kyu-00-333?style=for-the-badge&labelColor=866cc7" alt="">
-</a>
-</span>
-
-</div>
+[![CodeWarsProfile](https://img.shields.io/badge/-lointainy-333?style=for-the-badge&logo=codewars&&logoColor=FFF)](https://www.codewars.com/users/Lointainy)
+<br/><br/>
 
