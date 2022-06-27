@@ -10,7 +10,7 @@
 
 <!-- 8 - 7 -->
 
-[![8kyu](https://img.shields.io/badge/8_kyu-46-333?style=for-the-badge&labelColor=e6e6e6&logoColor=FFF)](/8kyu) &nbsp; [![7kyu](https://img.shields.io/badge/7_kyu-50-333?style=for-the-badge&labelColor=e6e6e6&logoColor=FFF)](/7kyu)
+[![8kyu](https://img.shields.io/badge/8_kyu-46-333?style=for-the-badge&labelColor=e6e6e6&logoColor=FFF)](/8kyu) &nbsp; [![7kyu](https://img.shields.io/badge/7_kyu-53-333?style=for-the-badge&labelColor=e6e6e6&logoColor=FFF)](/7kyu)
 
 <!-- 6 - 5 -->
 
