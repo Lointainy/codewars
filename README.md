@@ -30,7 +30,7 @@
 
 ###### Статус проекту:
 
-![complete](https://img.shields.io/badge/вирішено_завдань:-98-333?style=for-the-badge&labelColor=e7901f)
+![complete](https://img.shields.io/badge/вирішено_завдань:-101-333?style=for-the-badge&labelColor=e7901f)
 
 ![](https://img.shields.io/badge/останнe_оновлення:-25.06.22-333?style=for-the-badge&labelColor=1fe783)
 
