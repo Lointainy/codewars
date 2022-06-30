@@ -10,11 +10,11 @@
 
 <!-- 8 - 7 -->
 
-[![8kyu](https://img.shields.io/badge/8_kyu-46-333?style=for-the-badge&labelColor=e6e6e6&logoColor=FFF)](/8kyu) &nbsp; [![7kyu](https://img.shields.io/badge/7_kyu-53-333?style=for-the-badge&labelColor=e6e6e6&logoColor=FFF)](/7kyu)
+[![8kyu](https://img.shields.io/badge/8_kyu-46-333?style=for-the-badge&labelColor=e6e6e6&logoColor=FFF)](/8kyu) &nbsp; [![7kyu](https://img.shields.io/badge/7_kyu-54-333?style=for-the-badge&labelColor=e6e6e6&logoColor=FFF)](/7kyu)
 
 <!-- 6 - 5 -->
 
-[![6kyu](https://img.shields.io/badge/6_kyu-04-333?style=for-the-badge&labelColor=ecb613)](/6kyu) &nbsp; [![5kyu](https://img.shields.io/badge/5_kyu-00-333?style=for-the-badge&labelColor=ecb613)](/5kyu)
+[![6kyu](https://img.shields.io/badge/6_kyu-05-333?style=for-the-badge&labelColor=ecb613)](/6kyu) &nbsp; [![5kyu](https://img.shields.io/badge/5_kyu-00-333?style=for-the-badge&labelColor=ecb613)](/5kyu)
 
 <!-- 4 - 3 -->
 
@@ -30,9 +30,9 @@
 
 ###### Статус проекту:
 
-![complete](https://img.shields.io/badge/вирішено_завдань:-103-333?style=for-the-badge&labelColor=e7901f)
+![complete](https://img.shields.io/badge/вирішено_завдань:-105-333?style=for-the-badge&labelColor=e7901f)
 
-![](https://img.shields.io/badge/останнe_оновлення:-27.06.22-333?style=for-the-badge&labelColor=1fe783)
+![](https://img.shields.io/badge/останнe_оновлення:-30.06.22-333?style=for-the-badge&labelColor=1fe783)
 
 Над проектом працювали:
 
@@ -40,4 +40,3 @@
 
 [![CodeWarsProfile](https://img.shields.io/badge/-lointainy-333?style=for-the-badge&logo=codewars&&logoColor=FFF)](https://www.codewars.com/users/Lointainy)
 <br/><br/>
-
