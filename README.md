@@ -14,7 +14,7 @@
 
 <!-- 6 - 5 -->
 
-[![6kyu](https://img.shields.io/badge/6_kyu-05-333?style=for-the-badge&labelColor=ecb613)](/6kyu) &nbsp; [![5kyu](https://img.shields.io/badge/5_kyu-00-333?style=for-the-badge&labelColor=ecb613)](/5kyu)
+[![6kyu](https://img.shields.io/badge/6_kyu-07-333?style=for-the-badge&labelColor=ecb613)](/6kyu) &nbsp; [![5kyu](https://img.shields.io/badge/5_kyu-00-333?style=for-the-badge&labelColor=ecb613)](/5kyu)
 
 <!-- 4 - 3 -->
 
@@ -30,7 +30,7 @@
 
 ###### Статус проекту:
 
-![complete](https://img.shields.io/badge/вирішено_завдань:-105-333?style=for-the-badge&labelColor=e7901f)
+![complete](https://img.shields.io/badge/вирішено_завдань:-107-333?style=for-the-badge&labelColor=e7901f)
 
 ![](https://img.shields.io/badge/останнe_оновлення:-30.06.22-333?style=for-the-badge&labelColor=1fe783)
 
