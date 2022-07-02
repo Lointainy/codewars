@@ -10,7 +10,7 @@
 
 <!-- 8 - 7 -->
 
-[![8kyu](https://img.shields.io/badge/8_kyu-46-333?style=for-the-badge&labelColor=e6e6e6&logoColor=FFF)](/8kyu) &nbsp; [![7kyu](https://img.shields.io/badge/7_kyu-54-333?style=for-the-badge&labelColor=e6e6e6&logoColor=FFF)](/7kyu)
+[![8kyu](https://img.shields.io/badge/8_kyu-46-333?style=for-the-badge&labelColor=e6e6e6&logoColor=FFF)](/8kyu) &nbsp; [![7kyu](https://img.shields.io/badge/7_kyu-56-333?style=for-the-badge&labelColor=e6e6e6&logoColor=FFF)](/7kyu)
 
 <!-- 6 - 5 -->
 
@@ -30,9 +30,9 @@
 
 ###### Статус проекту:
 
-![complete](https://img.shields.io/badge/вирішено_завдань:-107-333?style=for-the-badge&labelColor=e7901f)
+![complete](https://img.shields.io/badge/вирішено_завдань:-109-333?style=for-the-badge&labelColor=e7901f)
 
-![](https://img.shields.io/badge/останнe_оновлення:-30.06.22-333?style=for-the-badge&labelColor=1fe783)
+![](https://img.shields.io/badge/останнe_оновлення:-2.07.22-333?style=for-the-badge&labelColor=1fe783)
 
 Над проектом працювали:
 
