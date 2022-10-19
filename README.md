@@ -32,7 +32,7 @@
 
 ![complete](https://img.shields.io/badge/вирішено_завдань:-111-333?style=for-the-badge&labelColor=e7901f)
 
-![](https://img.shields.io/badge/останнe_оновлення:-10.07.22-333?style=for-the-badge&labelColor=1fe783)
+![](https://img.shields.io/badge/останнe_оновлення:-19.10.22-333?style=for-the-badge&labelColor=1fe783)
 
 Над проектом працювали:
 
@@ -40,3 +40,4 @@
 
 [![CodeWarsProfile](https://img.shields.io/badge/-lointainy-333?style=for-the-badge&logo=codewars&&logoColor=FFF)](https://www.codewars.com/users/Lointainy)
 <br/><br/>
+
